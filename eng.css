@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+.img1{
+    width: 100%;
+    position: absolute;
+}
+.navbar{
+
+  display: flex;
+  justify-content: flex-end;
+  background-color: purple;
+  height: 40px;
+  
+}
+
+h1{
+    font-size: 25px;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    color: aqua ;
+    
+}
+
+.button{
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 13px;
+    padding: 7px;
+    font-size: 15px;
+    color: white;
+    margin-left: 30px;
+    font-family:serif;
+
+
+}
+.button:hover{
+    background-color: aqua;
+    color:darkblue
+}
+
+.buttons{
+    margin-top: 10px;
+    margin-right: 50px;
+    
+}
+
+h2{
+    position: absolute;
+    top: 120px;
+    left: 750px;
+    color: white;
+    font-size: 27px;
+}
+.overview{
+    position: absolute;
+    top: 150px;
+    left: 750px;
+    color: white;
+    font-size: 25px;
+}
+h3{
+    position: absolute;
+    top: 740px;
+    left: 100px;
+    font-size: 27px;
+    color: white;
+}
+.importancep{
+    position: absolute;
+    top: 780px;
+    left: 100px;
+    font-size: 25px;
+    color: white;
+    background-color: grey;
+    border-radius: 7px;
+    padding:15px;
+}
+.img2{
+    position: absolute;
+    width: 100%;
+    top: 700px;
+}
+h4{
+    position: absolute;
+    top: 1050px;
+    left: 650px;
+    font-size: 27px;
+    color: white;
+}
+.web{
+    position: absolute;
+    top: 1090px;
+    left: 650px;
+    right: 45px;
+    font-size: 27px;
+    color: grey;
+    background-color: aqua;
+    border-radius: 7px;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+h5{
+    position: absolute;
+    top: 1350px;
+    left: 100px;
+    font-size: 27px;
+    color: white;
+}
+.app{
+    position: absolute;
+    top: 1390px;
+    left: 100px;
+    font-size: 25px;
+    color: white;
+    background-color: grey;
+    border-radius: 7px;
+    padding:15px;
+    margin-bottom: 20px;
+}
+.img3{
+    position: absolute;
+    width: 100%;
+    top: 1540px;
+}
+h6{
+    position: absolute;
+    top: 1710px;
+    left: 100px;
+    font-size: 27px;
+    color: white;
+}
+.AI{
+    position: absolute;
+    top: 1740px;
+    left: 100px;
+    font-size: 25px;
+    color: darkblue;
+    background-color: aqua;
+    border-radius: 7px;
+    padding:15px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.roadmap{
+    position: absolute;
+    top: 2065px;
+    left: 700px;
+    font-size: 27px;
+    color: white;
+    
+}
+.rm{
+    position: absolute;
+    top: 2040px;
+    left: 650px;
+    font-size: 27px;
+    color: white;
+    background-color: darkblue;
+    border-radius: 7px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.rd{
+    position: absolute;
+    top: 2100px;
+    left: 700px;
+    font-size: 25px;
+    color: black;
+    background-color: aqua;
+    border-radius: 7px;
+    padding: 20px;
+
+}
+.rodmap{
+    text-decoration: none;
+    
+}
+.author{
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    color: aqua;
+    font-size: 15px;
+}
